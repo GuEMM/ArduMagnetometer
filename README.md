@@ -1,4 +1,4 @@
-## Project: Inciación Científica - Departamento de Física
+## Project: Iniciación Científica - Departamento de Física
 **Facultad de Ciencias Exactas y Naturales - Universidad Nacional de Asunción**
 
 # ArduMagnetometer
